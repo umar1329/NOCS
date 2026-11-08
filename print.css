@@ -1,0 +1,127 @@
+/* ========================================================
+   PRINT STYLESHEET: CLEAN EXAM/BOOK QUALITY PRINTING & PDF
+   ======================================================== */
+
+@media print {
+  /* Hide interactive / non-printable UI */
+  .app-header,
+  .app-sidebar,
+  .sidebar-overlay,
+  .topic-action-toolbar,
+  .btn-toolbar,
+  .heading-actions,
+  .btn-copy-code,
+  .topic-pagination-card,
+  #backToTopBtn,
+  .toast-container,
+  .search-modal-backdrop,
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: #fff !important;
+    color: #000 !important;
+    font-size: 11pt !important;
+    line-height: 1.5 !important;
+  }
+
+  .app-container {
+    margin-top: 0 !important;
+  }
+
+  .app-main {
+    margin-left: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .main-content-inner {
+    max-width: 100% !important;
+  }
+
+  .topic-header-card,
+  .topic-content-body,
+  .chapter-view-header,
+  .toc-card {
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin-bottom: 1.5rem !important;
+    background: transparent !important;
+  }
+
+  .topic-main-title {
+    font-size: 18pt !important;
+    color: #000 !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  .subtopic-heading {
+    page-break-after: avoid;
+    break-after: avoid;
+    border-bottom: 1px solid #ccc !important;
+    color: #000 !important;
+  }
+
+  .callout {
+    border-left: 3pt solid #333 !important;
+    border-top: 1pt solid #ccc !important;
+    border-right: 1pt solid #ccc !important;
+    border-bottom: 1pt solid #ccc !important;
+    background: #f9f9f9 !important;
+    color: #000 !important;
+    page-break-inside: avoid;
+  }
+  .callout-badge {
+    background: #333 !important;
+    color: #fff !important;
+  }
+
+  .code-block-wrapper {
+    border: 1pt solid #ccc !important;
+    background: #f4f4f4 !important;
+    page-break-inside: avoid;
+  }
+  .code-header {
+    background: #e5e5e5 !important;
+    color: #333 !important;
+    border-bottom: 1pt solid #ccc !important;
+  }
+  .code-block-wrapper code {
+    color: #000 !important;
+    font-size: 9.5pt !important;
+  }
+
+  .content-table {
+    border-collapse: collapse !important;
+  }
+  .content-table th,
+  .content-table td {
+    border: 1pt solid #ddd !important;
+    color: #000 !important;
+    padding: 6pt 8pt !important;
+  }
+  .content-table th {
+    background: #eee !important;
+  }
+
+  a {
+    color: #000 !important;
+    text-decoration: underline !important;
+  }
+
+  .print-watermark {
+    display: block !important;
+    font-size: 9pt;
+    color: #666;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #ccc;
+  }
+}
+
+.print-watermark {
+  display: none;
+}

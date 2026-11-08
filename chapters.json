@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "ch1",
+    "number": 1,
+    "title": "Introduction to Software Development",
+    "description": "Foundations of software engineering, SDLC models (Waterfall, Agile), project planning & management, UML diagrams, design patterns, testing, debugging, and development tools.",
+    "topicsCount": 17,
+    "subtopicsCount": 68,
+    "topics": [
+      {
+        "id": "ch1-t1",
+        "topicNumber": "A",
+        "title": "Chapter Introduction",
+        "fullTitle": "A. Chapter Introduction",
+        "subtopicsCount": 0,
+        "wordCount": 193,
+        "readingTime": 1
+      },
+      {
+        "id": "ch1-t2",
+        "topicNumber": "1.1",
+        "title": "Software Development",
+        "fullTitle": "1.1 Software Development",
+        "subtopicsCount": 0,
+        "wordCount": 149,
+        "readingTime": 1
+      },
+      {
+        "id": "ch1-t3",
+        "topicNumber": "1.2",
+        "title": "Introduction to Software Development Life Cycle (SDLC)",
+        "fullTitle": "1.2 Introduction to Software Development Life Cycle (SDLC)",
+        "subtopicsCount": 1,
+        "wordCount": 265,
+        "readingTime": 1
+      },
+      {
+        "id": "ch1-t4",
+        "topicNumber": "1.2.2",
+        "title": "Stages Involved in SDLC",
+        "fullTitle": "1.2.2 Stages Involved in SDLC",
+        "subtopicsCount": 7,
+        "wordCount": 811,
+        "readingTime": 5
+      },
+      {
+        "id": "ch1-t5",
+        "topicNumber": "1.3",
+        "title": "Software Development Methodologies",
+        "fullTitle": "1.3 Software Development Methodologies",
+        "subtopicsCount": 3,
+        "wordCount": 740,
+        "readingTime": 4
+      },
+      {
+        "id": "ch1-t6",
+        "topicNumber": "1.4",
+        "title": "Project Planning and Management",
+        "fullTitle": "1.4 Project Planning and Management",
+        "subtopicsCount": 6,
+        "wordCount": 480,
+        "readingTime": 3
+      },
+      {
+        "id": "ch1-t7",
+        "topicNumber": "1.5",
+        "title": "Graphical Representation of Software Systems",
+        "fullTitle": "1.5 Graphical Representation of Software Systems",
+        "subtopicsCount": 7,
+        "wordCount": 578,
+        "readingTime": 3
+      },
+      {
+        "id": "ch1-t8",
+        "topicNumber": "1.6",
+        "title": "Introduction to Design Patterns",
+        "fullTitle": "1.6 Introduction to Design Patterns",
+        "subtopicsCount": 6,
+        "wordCount": 451,
+        "readingTime": 3
+      },
+      {
+        "id": "ch1-t9",
+        "topicNumber": "1.7",
+        "title": "Software Debugging and Testing",
+        "fullTitle": "1.7 Software Debugging and Testing",
+        "subtopicsCount": 6,
+        "wordCount": 402,
+        "readingTime": 2
+      },
+      {
+        "id": "ch1-t10",
+        "topicNumber": "1.8",
+        "title": "Software Development Tools",
+        "fullTitle": "1.8 Software Development Tools",
+        "subtopicsCount": 6,
+        "wordCount": 322,
+        "readingTime": 2
+      },
+      {
+        "id": "ch1-t11",
+        "topicNumber": "C",
+        "title": "Important Terminology",
+        "fullTitle": "C. Important Terminology",
+        "subtopicsCount": 0,
+        "wordCount": 426,
+        "readingTime": 2
+      },
+      {
+        "id": "ch1-t12",
+        "topicNumber": "D",
+        "title": "Differences and Comparisons",
+        "fullTitle": "D. Differences and Comparisons",
+        "subtopicsCount": 4,
+        "wordCount": 348,
+        "readingTime": 2
+      },
+      {
+        "id": "ch1-t13",
+        "topicNumber": "E",
+        "title": "Diagrams and Flowcharts",
+        "fullTitle": "E. Diagrams and Flowcharts",
+        "subtopicsCount": 7,
+        "wordCount": 429,
+        "readingTime": 2
+      },
+      {
+        "id": "ch1-t14",
+        "topicNumber": "G",
+        "title": "Important Formulas and Rules",
+        "fullTitle": "G. Important Formulas and Rules",
+        "subtopicsCount": 0,
+        "wordCount": 61,
+        "readingTime": 1
+      },
+      {
+        "id": "ch1-t15",
+        "topicNumber": "H",
+        "title": "Textbook Exercise Solutions",
+        "fullTitle": "H. Textbook Exercise Solutions",
+        "subtopicsCount": 3,
+        "wordCount": 1546,
+        "readingTime": 9
+      },
+      {
+        "id": "ch1-t16",
+        "topicNumber": "I",
+        "title": "Board Examination Preparation",
+        "fullTitle": "I. Board Examination Preparation",
+        "subtopicsCount": 5,
+        "wordCount": 551,
+        "readingTime": 3
+      },
+      {
+        "id": "ch1-t17",
+        "topicNumber": "J",
+        "title": "Chapter-End Revision",
+        "fullTitle": "J. Chapter-End Revision",
+        "subtopicsCount": 7,
+        "wordCount": 756,
+        "readingTime": 4
+      }
+    ]
+  },
+  {
+    "id": "ch2",
+    "number": 2,
+    "title": "Python Programming",
+    "description": "Comprehensive Python programming from fundamentals to OOP, control structures, functions, modules, data structures (lists, tuples, dicts), exception handling, and debugging.",
+    "topicsCount": 19,
+    "subtopicsCount": 92,
+    "topics": [
+      {
+        "id": "ch2-t1",
+        "topicNumber": "A",
+        "title": "Chapter Introduction",
+        "fullTitle": "A. Chapter Introduction",
+        "subtopicsCount": 0,
+        "wordCount": 237,
+        "readingTime": 1
+      },
+      {
+        "id": "ch2-t2",
+        "topicNumber": "2.1",
+        "title": "Introduction to Python Programming",
+        "fullTitle": "2.1 Introduction to Python Programming",
+        "subtopicsCount": 3,
+        "wordCount": 413,
+        "readingTime": 2
+      },
+      {
+        "id": "ch2-t3",
+        "topicNumber": "2.2",
+        "title": "Basic Python Syntax and Structure",
+        "fullTitle": "2.2 Basic Python Syntax and Structure",
+        "subtopicsCount": 7,
+        "wordCount": 918,
+        "readingTime": 5
+      },
+      {
+        "id": "ch2-t4",
+        "topicNumber": "2.3",
+        "title": "Operators and Expressions",
+        "fullTitle": "2.3 Operators and Expressions",
+        "subtopicsCount": 6,
+        "wordCount": 2349,
+        "readingTime": 13
+      },
+      {
+        "id": "ch2-t5",
+        "topicNumber": "2.4",
+        "title": "Control Structures",
+        "fullTitle": "2.4 Control Structures",
+        "subtopicsCount": 8,
+        "wordCount": 1058,
+        "readingTime": 6
+      },
+      {
+        "id": "ch2-t6",
+        "topicNumber": "2.5",
+        "title": "Python Modules and Built-in Data Structures",
+        "fullTitle": "2.5 Python Modules and Built-in Data Structures",
+        "subtopicsCount": 7,
+        "wordCount": 544,
+        "readingTime": 3
+      },
+      {
+        "id": "ch2-t7",
+        "topicNumber": "2.6",
+        "title": "Built-in Data Structures",
+        "fullTitle": "2.6 Built-in Data Structures",
+        "subtopicsCount": 8,
+        "wordCount": 748,
+        "readingTime": 4
+      },
+      {
+        "id": "ch2-t8",
+        "topicNumber": "2.7",
+        "title": "Modular Programming in Python",
+        "fullTitle": "2.7 Modular Programming in Python",
+        "subtopicsCount": 1,
+        "wordCount": 224,
+        "readingTime": 1
+      },
+      {
+        "id": "ch2-t9",
+        "topicNumber": "2.8",
+        "title": "Object-Oriented Programming in Python",
+        "fullTitle": "2.8 Object-Oriented Programming in Python",
+        "subtopicsCount": 2,
+        "wordCount": 281,
+        "readingTime": 2
+      },
+      {
+        "id": "ch2-t10",
+        "topicNumber": "2.9",
+        "title": "Advanced Python Concepts",
+        "fullTitle": "2.9 Advanced Python Concepts",
+        "subtopicsCount": 5,
+        "wordCount": 263,
+        "readingTime": 1
+      },
+      {
+        "id": "ch2-t11",
+        "topicNumber": "2.10",
+        "title": "Testing and Debugging in Python",
+        "fullTitle": "2.10 Testing and Debugging in Python",
+        "subtopicsCount": 3,
+        "wordCount": 220,
+        "readingTime": 1
+      },
+      {
+        "id": "ch2-t12",
+        "topicNumber": "C",
+        "title": "Important Terminology",
+        "fullTitle": "C. Important Terminology",
+        "subtopicsCount": 0,
+        "wordCount": 389,
+        "readingTime": 2
+      },
+      {
+        "id": "ch2-t13",
+        "topicNumber": "D",
+        "title": "Differences and Comparisons",
+        "fullTitle": "D. Differences and Comparisons",
+        "subtopicsCount": 5,
+        "wordCount": 318,
+        "readingTime": 2
+      },
+      {
+        "id": "ch2-t14",
+        "topicNumber": "E",
+        "title": "Diagrams and Flowcharts",
+        "fullTitle": "E. Diagrams and Flowcharts",
+        "subtopicsCount": 4,
+        "wordCount": 197,
+        "readingTime": 1
+      },
+      {
+        "id": "ch2-t15",
+        "topicNumber": "F",
+        "title": "Python Programming (Complete Solutions)",
+        "fullTitle": "F. Python Programming (Complete Solutions)",
+        "subtopicsCount": 13,
+        "wordCount": 740,
+        "readingTime": 4
+      },
+      {
+        "id": "ch2-t16",
+        "topicNumber": "G",
+        "title": "Important Formulas and Rules",
+        "fullTitle": "G. Important Formulas and Rules",
+        "subtopicsCount": 5,
+        "wordCount": 196,
+        "readingTime": 1
+      },
+      {
+        "id": "ch2-t17",
+        "topicNumber": "H",
+        "title": "Textbook Exercise Solutions",
+        "fullTitle": "H. Textbook Exercise Solutions",
+        "subtopicsCount": 3,
+        "wordCount": 1647,
+        "readingTime": 9
+      },
+      {
+        "id": "ch2-t18",
+        "topicNumber": "I",
+        "title": "Board Examination Preparation",
+        "fullTitle": "I. Board Examination Preparation",
+        "subtopicsCount": 5,
+        "wordCount": 568,
+        "readingTime": 3
+      },
+      {
+        "id": "ch2-t19",
+        "topicNumber": "J",
+        "title": "Chapter-End Revision",
+        "fullTitle": "J. Chapter-End Revision",
+        "subtopicsCount": 7,
+        "wordCount": 906,
+        "readingTime": 5
+      }
+    ]
+  },
+  {
+    "id": "ch3",
+    "number": 3,
+    "title": "Algorithms and Problem Solving",
+    "description": "Computational problem solving, algorithm design paradigms (Divide & Conquer, Greedy, Dynamic Programming, Backtracking), Big O complexity analysis, sorting, searching, and graph algorithms.",
+    "topicsCount": 14,
+    "subtopicsCount": 50,
+    "topics": [
+      {
+        "id": "ch3-t1",
+        "topicNumber": "A",
+        "title": "Chapter Introduction",
+        "fullTitle": "A. Chapter Introduction",
+        "subtopicsCount": 0,
+        "wordCount": 262,
+        "readingTime": 1
+      },
+      {
+        "id": "ch3-t2",
+        "topicNumber": "3.1",
+        "title": "Understanding Computational Problems",
+        "fullTitle": "3.1 Understanding Computational Problems",
+        "subtopicsCount": 3,
+        "wordCount": 787,
+        "readingTime": 4
+      },
+      {
+        "id": "ch3-t3",
+        "topicNumber": "3.2",
+        "title": "Algorithms for Problem Solving",
+        "fullTitle": "3.2 Algorithms for Problem Solving",
+        "subtopicsCount": 1,
+        "wordCount": 518,
+        "readingTime": 3
+      },
+      {
+        "id": "ch3-t4",
+        "topicNumber": "3.3",
+        "title": "Problem Solvability and Complexity",
+        "fullTitle": "3.3 Problem Solvability and Complexity",
+        "subtopicsCount": 3,
+        "wordCount": 984,
+        "readingTime": 5
+      },
+      {
+        "id": "ch3-t5",
+        "topicNumber": "3.4",
+        "title": "Algorithm Analysis",
+        "fullTitle": "3.4 Algorithm Analysis",
+        "subtopicsCount": 3,
+        "wordCount": 542,
+        "readingTime": 3
+      },
+      {
+        "id": "ch3-t6",
+        "topicNumber": "3.5",
+        "title": "Algorithm Design Techniques",
+        "fullTitle": "3.5 Algorithm Design Techniques",
+        "subtopicsCount": 4,
+        "wordCount": 664,
+        "readingTime": 4
+      },
+      {
+        "id": "ch3-t7",
+        "topicNumber": "3.6",
+        "title": "Commonly Used Algorithms",
+        "fullTitle": "3.6 Commonly Used Algorithms",
+        "subtopicsCount": 9,
+        "wordCount": 1447,
+        "readingTime": 8
+      },
+      {
+        "id": "ch3-t8",
+        "topicNumber": "C",
+        "title": "Important Terminology",
+        "fullTitle": "C. Important Terminology",
+        "subtopicsCount": 0,
+        "wordCount": 383,
+        "readingTime": 2
+      },
+      {
+        "id": "ch3-t9",
+        "topicNumber": "D",
+        "title": "Differences and Comparisons",
+        "fullTitle": "D. Differences and Comparisons",
+        "subtopicsCount": 6,
+        "wordCount": 361,
+        "readingTime": 2
+      },
+      {
+        "id": "ch3-t10",
+        "topicNumber": "E",
+        "title": "Diagrams and Flowcharts",
+        "fullTitle": "E. Diagrams and Flowcharts",
+        "subtopicsCount": 4,
+        "wordCount": 258,
+        "readingTime": 1
+      },
+      {
+        "id": "ch3-t11",
+        "topicNumber": "G",
+        "title": "Important Formulas and Rules",
+        "fullTitle": "G. Important Formulas and Rules",
+        "subtopicsCount": 2,
+        "wordCount": 115,
+        "readingTime": 1
+      },
+      {
+        "id": "ch3-t12",
+        "topicNumber": "H",
+        "title": "Textbook Exercise Solutions",
+        "fullTitle": "H. Textbook Exercise Solutions",
+        "subtopicsCount": 3,
+        "wordCount": 1800,
+        "readingTime": 10
+      },
+      {
+        "id": "ch3-t13",
+        "topicNumber": "I",
+        "title": "Board Examination Preparation",
+        "fullTitle": "I. Board Examination Preparation",
+        "subtopicsCount": 5,
+        "wordCount": 642,
+        "readingTime": 4
+      },
+      {
+        "id": "ch3-t14",
+        "topicNumber": "J",
+        "title": "Chapter-End Revision",
+        "fullTitle": "J. Chapter-End Revision",
+        "subtopicsCount": 7,
+        "wordCount": 825,
+        "readingTime": 5
+      }
+    ]
+  },
+  {
+    "id": "ch4",
+    "number": 4,
+    "title": "Computational Structures",
+    "description": "Core computational data structures including Linear Structures (Arrays, Lists, Stacks, Queues) and Non-Linear Structures (Trees, Binary Trees, BSTs, Graphs) with operations and applications.",
+    "topicsCount": 10,
+    "subtopicsCount": 44,
+    "topics": [
+      {
+        "id": "ch4-t1",
+        "topicNumber": "A",
+        "title": "Chapter Introduction",
+        "fullTitle": "A. Chapter Introduction",
+        "subtopicsCount": 0,
+        "wordCount": 245,
+        "readingTime": 1
+      },
+      {
+        "id": "ch4-t2",
+        "topicNumber": "4.1",
+        "title": "Primitive Computational Structures",
+        "fullTitle": "4.1 Primitive Computational Structures",
+        "subtopicsCount": 16,
+        "wordCount": 2210,
+        "readingTime": 12
+      },
+      {
+        "id": "ch4-t3",
+        "topicNumber": "C",
+        "title": "Important Terminology",
+        "fullTitle": "C. Important Terminology",
+        "subtopicsCount": 0,
+        "wordCount": 277,
+        "readingTime": 2
+      },
+      {
+        "id": "ch4-t4",
+        "topicNumber": "D",
+        "title": "Differences and Comparisons",
+        "fullTitle": "D. Differences and Comparisons",
+        "subtopicsCount": 5,
+        "wordCount": 286,
+        "readingTime": 2
+      },
+      {
+        "id": "ch4-t5",
+        "topicNumber": "E",
+        "title": "Diagrams and Flowcharts",
+        "fullTitle": "E. Diagrams and Flowcharts",
+        "subtopicsCount": 5,
+        "wordCount": 204,
+        "readingTime": 1
+      },
+      {
+        "id": "ch4-t6",
+        "topicNumber": "F",
+        "title": "Python Programming",
+        "fullTitle": "F. Python Programming",
+        "subtopicsCount": 3,
+        "wordCount": 282,
+        "readingTime": 2
+      },
+      {
+        "id": "ch4-t7",
+        "topicNumber": "G",
+        "title": "Important Formulas and Rules",
+        "fullTitle": "G. Important Formulas and Rules",
+        "subtopicsCount": 0,
+        "wordCount": 67,
+        "readingTime": 1
+      },
+      {
+        "id": "ch4-t8",
+        "topicNumber": "H",
+        "title": "Textbook Exercise Solutions",
+        "fullTitle": "H. Textbook Exercise Solutions",
+        "subtopicsCount": 3,
+        "wordCount": 1175,
+        "readingTime": 7
+      },
+      {
+        "id": "ch4-t9",
+        "topicNumber": "I",
+        "title": "Board Examination Preparation",
+        "fullTitle": "I. Board Examination Preparation",
+        "subtopicsCount": 5,
+        "wordCount": 504,
+        "readingTime": 3
+      },
+      {
+        "id": "ch4-t10",
+        "topicNumber": "J",
+        "title": "Chapter-End Revision",
+        "fullTitle": "J. Chapter-End Revision",
+        "subtopicsCount": 7,
+        "wordCount": 538,
+        "readingTime": 3
+      }
+    ]
+  },
+  {
+    "id": "ch5",
+    "number": 5,
+    "title": "Data Analytics",
+    "description": "Descriptive statistics, central tendency, dispersion, probability, data collection & preparation, cleaning, statistical modeling, and data visualization tools.",
+    "topicsCount": 13,
+    "subtopicsCount": 64,
+    "topics": [
+      {
+        "id": "ch5-t1",
+        "topicNumber": "A",
+        "title": "Chapter Introduction",
+        "fullTitle": "A. Chapter Introduction",
+        "subtopicsCount": 0,
+        "wordCount": 240,
+        "readingTime": 1
+      },
+      {
+        "id": "ch5-t2",
+        "topicNumber": "5.1",
+        "title": "Basic Statistical Concepts",
+        "fullTitle": "5.1 Basic Statistical Concepts",
+        "subtopicsCount": 8,
+        "wordCount": 1148,
+        "readingTime": 6
+      },
+      {
+        "id": "ch5-t3",
+        "topicNumber": "5.2",
+        "title": "Data Collection and Preparation",
+        "fullTitle": "5.2 Data Collection and Preparation",
+        "subtopicsCount": 9,
+        "wordCount": 835,
+        "readingTime": 5
+      },
+      {
+        "id": "ch5-t4",
+        "topicNumber": "5.3",
+        "title": "Building Statistical Models",
+        "fullTitle": "5.3 Building Statistical Models",
+        "subtopicsCount": 9,
+        "wordCount": 1207,
+        "readingTime": 7
+      },
+      {
+        "id": "ch5-t5",
+        "topicNumber": "5.4",
+        "title": "Introduction to Data Visualization",
+        "fullTitle": "5.4 Introduction to Data Visualization",
+        "subtopicsCount": 6,
+        "wordCount": 500,
+        "readingTime": 3
+      },
+      {
+        "id": "ch5-t6",
+        "topicNumber": "5.5",
+        "title": "Tools for Data Visualization",
+        "fullTitle": "5.5 Tools for Data Visualization",
+        "subtopicsCount": 2,
+        "wordCount": 220,
+        "readingTime": 1
+      },
+      {
+        "id": "ch5-t7",
+        "topicNumber": "C",
+        "title": "Important Terminology",
+        "fullTitle": "C. Important Terminology",
+        "subtopicsCount": 0,
+        "wordCount": 263,
+        "readingTime": 1
+      },
+      {
+        "id": "ch5-t8",
+        "topicNumber": "D",
+        "title": "Differences and Comparisons",
+        "fullTitle": "D. Differences and Comparisons",
+        "subtopicsCount": 5,
+        "wordCount": 316,
+        "readingTime": 2
+      },
+      {
+        "id": "ch5-t9",
+        "topicNumber": "E",
+        "title": "Diagrams and Flowcharts",
+        "fullTitle": "E. Diagrams and Flowcharts",
+        "subtopicsCount": 5,
+        "wordCount": 310,
+        "readingTime": 2
+      },
+      {
+        "id": "ch5-t10",
+        "topicNumber": "G",
+        "title": "Important Formulas and Rules",
+        "fullTitle": "G. Important Formulas and Rules",
+        "subtopicsCount": 5,
+        "wordCount": 82,
+        "readingTime": 1
+      },
+      {
+        "id": "ch5-t11",
+        "topicNumber": "H",
+        "title": "Textbook Exercise Solutions",
+        "fullTitle": "H. Textbook Exercise Solutions",
+        "subtopicsCount": 3,
+        "wordCount": 1131,
+        "readingTime": 6
+      },
+      {
+        "id": "ch5-t12",
+        "topicNumber": "I",
+        "title": "Board Examination Preparation",
+        "fullTitle": "I. Board Examination Preparation",
+        "subtopicsCount": 5,
+        "wordCount": 529,
+        "readingTime": 3
+      },
+      {
+        "id": "ch5-t13",
+        "topicNumber": "J",
+        "title": "Chapter-End Revision",
+        "fullTitle": "J. Chapter-End Revision",
+        "subtopicsCount": 7,
+        "wordCount": 679,
+        "readingTime": 4
+      }
+    ]
+  },
+  {
+    "id": "ch6",
+    "number": 6,
+    "title": "Emerging Technologies",
+    "description": "Exploration of modern computing frontiers: Cloud Computing architectures & deployment models, and Blockchain technology, cryptocurrencies, smart contracts, and real-world implications.",
+    "topicsCount": 14,
+    "subtopicsCount": 61,
+    "topics": [
+      {
+        "id": "ch6-t1",
+        "topicNumber": "A",
+        "title": "Chapter Introduction",
+        "fullTitle": "A. Chapter Introduction",
+        "subtopicsCount": 0,
+        "wordCount": 226,
+        "readingTime": 1
+      },
+      {
+        "id": "ch6-t2",
+        "topicNumber": "6.1",
+        "title": "Definition and Overview of Emerging Technologies",
+        "fullTitle": "6.1 Definition and Overview of Emerging Technologies",
+        "subtopicsCount": 0,
+        "wordCount": 376,
+        "readingTime": 2
+      },
+      {
+        "id": "ch6-t3",
+        "topicNumber": "6.2",
+        "title": "Cloud Computing",
+        "fullTitle": "6.2 Cloud Computing",
+        "subtopicsCount": 13,
+        "wordCount": 1367,
+        "readingTime": 8
+      },
+      {
+        "id": "ch6-t4",
+        "topicNumber": "6.3",
+        "title": "Applications and Implications of Cloud Computing",
+        "fullTitle": "6.3 Applications and Implications of Cloud Computing",
+        "subtopicsCount": 9,
+        "wordCount": 384,
+        "readingTime": 2
+      },
+      {
+        "id": "ch6-t5",
+        "topicNumber": "6.4",
+        "title": "Introduction to Blockchain Technology",
+        "fullTitle": "6.4 Introduction to Blockchain Technology",
+        "subtopicsCount": 8,
+        "wordCount": 951,
+        "readingTime": 5
+      },
+      {
+        "id": "ch6-t6",
+        "topicNumber": "6.5",
+        "title": "Applications and Implications of Blockchain",
+        "fullTitle": "6.5 Applications and Implications of Blockchain",
+        "subtopicsCount": 3,
+        "wordCount": 396,
+        "readingTime": 2
+      },
+      {
+        "id": "ch6-t7",
+        "topicNumber": "6.6",
+        "title": "Future Trends and Innovations",
+        "fullTitle": "6.6 Future Trends and Innovations",
+        "subtopicsCount": 3,
+        "wordCount": 338,
+        "readingTime": 2
+      },
+      {
+        "id": "ch6-t8",
+        "topicNumber": "C",
+        "title": "Important Terminology",
+        "fullTitle": "C. Important Terminology",
+        "subtopicsCount": 0,
+        "wordCount": 293,
+        "readingTime": 2
+      },
+      {
+        "id": "ch6-t9",
+        "topicNumber": "D",
+        "title": "Differences and Comparisons",
+        "fullTitle": "D. Differences and Comparisons",
+        "subtopicsCount": 5,
+        "wordCount": 339,
+        "readingTime": 2
+      },
+      {
+        "id": "ch6-t10",
+        "topicNumber": "E",
+        "title": "Diagrams and Flowcharts",
+        "fullTitle": "E. Diagrams and Flowcharts",
+        "subtopicsCount": 5,
+        "wordCount": 294,
+        "readingTime": 2
+      },
+      {
+        "id": "ch6-t11",
+        "topicNumber": "G",
+        "title": "Important Formulas and Rules",
+        "fullTitle": "G. Important Formulas and Rules",
+        "subtopicsCount": 0,
+        "wordCount": 79,
+        "readingTime": 1
+      },
+      {
+        "id": "ch6-t12",
+        "topicNumber": "H",
+        "title": "Textbook Exercise Solutions",
+        "fullTitle": "H. Textbook Exercise Solutions",
+        "subtopicsCount": 3,
+        "wordCount": 1520,
+        "readingTime": 8
+      },
+      {
+        "id": "ch6-t13",
+        "topicNumber": "I",
+        "title": "Board Examination Preparation",
+        "fullTitle": "I. Board Examination Preparation",
+        "subtopicsCount": 5,
+        "wordCount": 537,
+        "readingTime": 3
+      },
+      {
+        "id": "ch6-t14",
+        "topicNumber": "J",
+        "title": "Chapter-End Revision",
+        "fullTitle": "J. Chapter-End Revision",
+        "subtopicsCount": 7,
+        "wordCount": 707,
+        "readingTime": 4
+      }
+    ]
+  },
+  {
+    "id": "ch7",
+    "number": 7,
+    "title": "Legal and Ethical Aspects of Computing System",
+    "description": "Digital law and ethics: Terms of Service, privacy and security threats, malware prevention, the digital divide, social impacts of technology, and digital citizenship.",
+    "topicsCount": 13,
+    "subtopicsCount": 60,
+    "topics": [
+      {
+        "id": "ch7-t1",
+        "topicNumber": "A",
+        "title": "Chapter Introduction",
+        "fullTitle": "A. Chapter Introduction",
+        "subtopicsCount": 0,
+        "wordCount": 234,
+        "readingTime": 1
+      },
+      {
+        "id": "ch7-t2",
+        "topicNumber": "7.1",
+        "title": "Understanding Terms of Use",
+        "fullTitle": "7.1 Understanding Terms of Use",
+        "subtopicsCount": 5,
+        "wordCount": 863,
+        "readingTime": 5
+      },
+      {
+        "id": "ch7-t3",
+        "topicNumber": "7.2",
+        "title": "Privacy and Security Threats",
+        "fullTitle": "7.2 Privacy and Security Threats",
+        "subtopicsCount": 12,
+        "wordCount": 921,
+        "readingTime": 5
+      },
+      {
+        "id": "ch7-t4",
+        "topicNumber": "7.3",
+        "title": "The Digital Divide and Its Impacts",
+        "fullTitle": "7.3 The Digital Divide and Its Impacts",
+        "subtopicsCount": 8,
+        "wordCount": 775,
+        "readingTime": 4
+      },
+      {
+        "id": "ch7-t5",
+        "topicNumber": "7.4",
+        "title": "Computing's Impact on Individuals and Society",
+        "fullTitle": "7.4 Computing's Impact on Individuals and Society",
+        "subtopicsCount": 2,
+        "wordCount": 342,
+        "readingTime": 2
+      },
+      {
+        "id": "ch7-t6",
+        "topicNumber": "7.5",
+        "title": "Digital Citizenship and Ethical Considerations",
+        "fullTitle": "7.5 Digital Citizenship and Ethical Considerations",
+        "subtopicsCount": 11,
+        "wordCount": 872,
+        "readingTime": 5
+      },
+      {
+        "id": "ch7-t7",
+        "topicNumber": "C",
+        "title": "Important Terminology",
+        "fullTitle": "C. Important Terminology",
+        "subtopicsCount": 0,
+        "wordCount": 344,
+        "readingTime": 2
+      },
+      {
+        "id": "ch7-t8",
+        "topicNumber": "D",
+        "title": "Differences and Comparisons",
+        "fullTitle": "D. Differences and Comparisons",
+        "subtopicsCount": 4,
+        "wordCount": 209,
+        "readingTime": 1
+      },
+      {
+        "id": "ch7-t9",
+        "topicNumber": "E",
+        "title": "Diagrams and Flowcharts",
+        "fullTitle": "E. Diagrams and Flowcharts",
+        "subtopicsCount": 3,
+        "wordCount": 184,
+        "readingTime": 1
+      },
+      {
+        "id": "ch7-t10",
+        "topicNumber": "G",
+        "title": "Important Formulas and Rules",
+        "fullTitle": "G. Important Formulas and Rules",
+        "subtopicsCount": 0,
+        "wordCount": 113,
+        "readingTime": 1
+      },
+      {
+        "id": "ch7-t11",
+        "topicNumber": "H",
+        "title": "Textbook Exercise Solutions",
+        "fullTitle": "H. Textbook Exercise Solutions",
+        "subtopicsCount": 3,
+        "wordCount": 1722,
+        "readingTime": 10
+      },
+      {
+        "id": "ch7-t12",
+        "topicNumber": "I",
+        "title": "Board Examination Preparation",
+        "fullTitle": "I. Board Examination Preparation",
+        "subtopicsCount": 5,
+        "wordCount": 587,
+        "readingTime": 3
+      },
+      {
+        "id": "ch7-t13",
+        "topicNumber": "J",
+        "title": "Chapter-End Revision",
+        "fullTitle": "J. Chapter-End Revision",
+        "subtopicsCount": 7,
+        "wordCount": 727,
+        "readingTime": 4
+      }
+    ]
+  },
+  {
+    "id": "ch8",
+    "number": 8,
+    "title": "Online Research and Digital Literacy",
+    "description": "Digital research methodologies, evaluating information credibility, academic research databases, research ethics, and intellectual property (patents, copyrights, trademarks, trade secrets).",
+    "topicsCount": 12,
+    "subtopicsCount": 37,
+    "topics": [
+      {
+        "id": "ch8-t1",
+        "topicNumber": "A",
+        "title": "Chapter Introduction",
+        "fullTitle": "A. Chapter Introduction",
+        "subtopicsCount": 0,
+        "wordCount": 224,
+        "readingTime": 1
+      },
+      {
+        "id": "ch8-t2",
+        "topicNumber": "8.1",
+        "title": "Online Research and Digital Literacy",
+        "fullTitle": "8.1 Online Research and Digital Literacy",
+        "subtopicsCount": 4,
+        "wordCount": 764,
+        "readingTime": 4
+      },
+      {
+        "id": "ch8-t3",
+        "topicNumber": "8.2",
+        "title": "Utilizing Digital Resources",
+        "fullTitle": "8.2 Utilizing Digital Resources",
+        "subtopicsCount": 2,
+        "wordCount": 370,
+        "readingTime": 2
+      },
+      {
+        "id": "ch8-t4",
+        "topicNumber": "8.3",
+        "title": "Research Ethics",
+        "fullTitle": "8.3 Research Ethics",
+        "subtopicsCount": 2,
+        "wordCount": 406,
+        "readingTime": 2
+      },
+      {
+        "id": "ch8-t5",
+        "topicNumber": "8.4",
+        "title": "Understanding Intellectual Property",
+        "fullTitle": "8.4 Understanding Intellectual Property",
+        "subtopicsCount": 8,
+        "wordCount": 1023,
+        "readingTime": 6
+      },
+      {
+        "id": "ch8-t6",
+        "topicNumber": "C",
+        "title": "Important Terminology",
+        "fullTitle": "C. Important Terminology",
+        "subtopicsCount": 0,
+        "wordCount": 226,
+        "readingTime": 1
+      },
+      {
+        "id": "ch8-t7",
+        "topicNumber": "D",
+        "title": "Differences and Comparisons",
+        "fullTitle": "D. Differences and Comparisons",
+        "subtopicsCount": 4,
+        "wordCount": 236,
+        "readingTime": 1
+      },
+      {
+        "id": "ch8-t8",
+        "topicNumber": "E",
+        "title": "Diagrams and Flowcharts",
+        "fullTitle": "E. Diagrams and Flowcharts",
+        "subtopicsCount": 2,
+        "wordCount": 118,
+        "readingTime": 1
+      },
+      {
+        "id": "ch8-t9",
+        "topicNumber": "G",
+        "title": "Important Formulas and Rules",
+        "fullTitle": "G. Important Formulas and Rules",
+        "subtopicsCount": 0,
+        "wordCount": 74,
+        "readingTime": 1
+      },
+      {
+        "id": "ch8-t10",
+        "topicNumber": "H",
+        "title": "Textbook Exercise Solutions",
+        "fullTitle": "H. Textbook Exercise Solutions",
+        "subtopicsCount": 3,
+        "wordCount": 1495,
+        "readingTime": 8
+      },
+      {
+        "id": "ch8-t11",
+        "topicNumber": "I",
+        "title": "Board Examination Preparation",
+        "fullTitle": "I. Board Examination Preparation",
+        "subtopicsCount": 5,
+        "wordCount": 528,
+        "readingTime": 3
+      },
+      {
+        "id": "ch8-t12",
+        "topicNumber": "J",
+        "title": "Chapter-End Revision",
+        "fullTitle": "J. Chapter-End Revision",
+        "subtopicsCount": 7,
+        "wordCount": 499,
+        "readingTime": 3
+      }
+    ]
+  },
+  {
+    "id": "ch9",
+    "number": 9,
+    "title": "Entrepreneurship in Digital Age",
+    "description": "Digital entrepreneurship: Design Thinking framework, business model generation, business plans, market research, pitching, digital marketing, business finance, storytelling, and innovation.",
+    "topicsCount": 16,
+    "subtopicsCount": 58,
+    "topics": [
+      {
+        "id": "ch9-t1",
+        "topicNumber": "A",
+        "title": "Chapter Introduction",
+        "fullTitle": "A. Chapter Introduction",
+        "subtopicsCount": 0,
+        "wordCount": 261,
+        "readingTime": 1
+      },
+      {
+        "id": "ch9-t2",
+        "topicNumber": "9.1",
+        "title": "Design Thinking and Business Solutions",
+        "fullTitle": "9.1 Design Thinking and Business Solutions",
+        "subtopicsCount": 3,
+        "wordCount": 562,
+        "readingTime": 3
+      },
+      {
+        "id": "ch9-t3",
+        "topicNumber": "9.2",
+        "title": "Creating a Business Plan",
+        "fullTitle": "9.2 Creating a Business Plan",
+        "subtopicsCount": 4,
+        "wordCount": 574,
+        "readingTime": 3
+      },
+      {
+        "id": "ch9-t4",
+        "topicNumber": "9.3",
+        "title": "Collecting Market Insights",
+        "fullTitle": "9.3 Collecting Market Insights",
+        "subtopicsCount": 7,
+        "wordCount": 1184,
+        "readingTime": 7
+      },
+      {
+        "id": "ch9-t5",
+        "topicNumber": "9.4",
+        "title": "Developing Effective Marketing and Sales Strategies",
+        "fullTitle": "9.4 Developing Effective Marketing and Sales Strategies",
+        "subtopicsCount": 3,
+        "wordCount": 348,
+        "readingTime": 2
+      },
+      {
+        "id": "ch9-t6",
+        "topicNumber": "9.5",
+        "title": "Financial Concepts for Business",
+        "fullTitle": "9.5 Financial Concepts for Business",
+        "subtopicsCount": 4,
+        "wordCount": 495,
+        "readingTime": 3
+      },
+      {
+        "id": "ch9-t7",
+        "topicNumber": "9.6",
+        "title": "Communication and Storytelling Skills",
+        "fullTitle": "9.6 Communication and Storytelling Skills",
+        "subtopicsCount": 3,
+        "wordCount": 394,
+        "readingTime": 2
+      },
+      {
+        "id": "ch9-t8",
+        "topicNumber": "9.7",
+        "title": "Collaboration and Iteration",
+        "fullTitle": "9.7 Collaboration and Iteration",
+        "subtopicsCount": 3,
+        "wordCount": 408,
+        "readingTime": 2
+      },
+      {
+        "id": "ch9-t9",
+        "topicNumber": "9.8",
+        "title": "Innovation and Creativity",
+        "fullTitle": "9.8 Innovation and Creativity",
+        "subtopicsCount": 3,
+        "wordCount": 407,
+        "readingTime": 2
+      },
+      {
+        "id": "ch9-t10",
+        "topicNumber": "C",
+        "title": "Important Terminology",
+        "fullTitle": "C. Important Terminology",
+        "subtopicsCount": 0,
+        "wordCount": 364,
+        "readingTime": 2
+      },
+      {
+        "id": "ch9-t11",
+        "topicNumber": "D",
+        "title": "Differences and Comparisons",
+        "fullTitle": "D. Differences and Comparisons",
+        "subtopicsCount": 5,
+        "wordCount": 297,
+        "readingTime": 2
+      },
+      {
+        "id": "ch9-t12",
+        "topicNumber": "E",
+        "title": "Diagrams and Flowcharts",
+        "fullTitle": "E. Diagrams and Flowcharts",
+        "subtopicsCount": 4,
+        "wordCount": 185,
+        "readingTime": 1
+      },
+      {
+        "id": "ch9-t13",
+        "topicNumber": "G",
+        "title": "Important Formulas and Rules",
+        "fullTitle": "G. Important Formulas and Rules",
+        "subtopicsCount": 4,
+        "wordCount": 77,
+        "readingTime": 1
+      },
+      {
+        "id": "ch9-t14",
+        "topicNumber": "H",
+        "title": "Textbook Exercise Solutions",
+        "fullTitle": "H. Textbook Exercise Solutions",
+        "subtopicsCount": 3,
+        "wordCount": 1824,
+        "readingTime": 10
+      },
+      {
+        "id": "ch9-t15",
+        "topicNumber": "I",
+        "title": "Board Examination Preparation",
+        "fullTitle": "I. Board Examination Preparation",
+        "subtopicsCount": 5,
+        "wordCount": 531,
+        "readingTime": 3
+      },
+      {
+        "id": "ch9-t16",
+        "topicNumber": "J",
+        "title": "Chapter-End Revision",
+        "fullTitle": "J. Chapter-End Revision",
+        "subtopicsCount": 7,
+        "wordCount": 831,
+        "readingTime": 5
+      }
+    ]
+  }
+]
